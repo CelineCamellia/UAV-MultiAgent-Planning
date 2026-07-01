@@ -1,0 +1,6 @@
+streamlit>=1.35
+numpy>=1.23
+matplotlib>=3.7
+pillow>=10.0
+gymnasium>=0.29
+torch>=2.0
